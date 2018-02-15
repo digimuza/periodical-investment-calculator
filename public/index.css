@@ -1,0 +1,27 @@
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+.line-chart{
+    width: 50vw;
+    height: 65vh;
+}
+
+.line-chart h1{
+    text-align: center;
+    color: #212121
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.data-table ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+}
